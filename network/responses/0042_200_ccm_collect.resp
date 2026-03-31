@@ -1,0 +1,19 @@
+================================================================================
+RESPONSE #42
+================================================================================
+URL     : https://www.google.com/ccm/collect?frm=0&ae=g&en=page_view&dl=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F&rnd=2070732965.1773407402&dt=Sign%20Up%20for%20Ubersuggest&auid=963665120.1773407402&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He63b1v830754933za200zd830754933xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=102015666~103116026~103200004~115616985~115938466~115938469~116024733~117484252&apve=1&apvf=f&apvc=1&tft=1773407401629&tfd=2110
+Status  : 200 
+MIME    : text/plain
+IP      : 192.0.0.88
+Cache   : False
+Size    : 0 bytes
+SHA-256 : 
+Time    : 2026-03-13T13:10:02.551046
+
+HEADERS:
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن

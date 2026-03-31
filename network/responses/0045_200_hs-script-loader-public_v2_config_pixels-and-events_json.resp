@@ -1,0 +1,39 @@
+================================================================================
+RESPONSE #45
+================================================================================
+URL     : https://api-eu1.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json?portalId=25525864
+Status  : 200 
+MIME    : application/json
+IP      : 141.101.90.97
+Cache   : False
+Size    : 150 bytes
+SHA-256 : bea6d55fd50a5483cb771d3e694923106f89b9f761aa8e01d43b2365b7e5c81d
+Time    : 2026-03-13T13:10:02.573053
+
+HEADERS:
+  access-control-max-age: 180
+  content-encoding: br
+  cf-cache-status: DYNAMIC
+  report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Eh41W6LUewoRwobj7pg1YQOlXthtVvVN%2FVwGBmYTFkDrqkFOp6dLtIzgfb1RdUjcAfWuAe8kZlvwdiuB1YtStiNk0o8vwWoMuZDey87Cx4aZi57Jg2qjp8l5ydkiFe95QuZZtw%3D%3D"}],"group":"cf-nel","max_age":604800}
+  access-control-allow-methods: GET, OPTIONS, PUT, POST, DELETE, PATCH, HEAD
+  x-content-type-options: nosniff
+  server-timing: hcid;desc="019ce751-78cf-76e1-a677-bd08e44571b1", cfr;desc="9dbb46c73a399f0e-CDG"
+  date: Fri, 13 Mar 2026 13:10:02 GMT
+  x-hubspot-correlation-id: 019ce751-78cf-76e1-a677-bd08e44571b1
+  content-type: application/json;charset=utf-8
+  vary: origin
+  access-control-allow-headers: *
+  strict-transport-security: max-age=31536000; includeSubDomains; preload
+  nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+  access-control-allow-credentials: false
+  cf-ray: 9dbb46c73a399f0e-CDG
+  access-control-allow-origin: https://app.neilpatel.com
+  server: cloudflare
+
+SECURITY ISSUES:
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [LOW] INFO_LEAK: server — 
+
+BODY (150 bytes):
+{"pixels":{"ADWORDS":[{"pixelId":"10841102949","limitedDataUseEnabled":false,"pixelInitializer":"10841102949"}]},"enhancedConversionEventSettings":{}}

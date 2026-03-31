@@ -1,0 +1,34 @@
+================================================================================
+RESPONSE #24
+================================================================================
+URL     : https://app.neilpatel.com/api/user/limits
+Status  : 200 
+MIME    : application/json
+IP      : 18.239.183.50
+Cache   : False
+Size    : 279 bytes
+SHA-256 : 1d6a088cb2c096b45a58327feb88d8ef62616b552c43785c7c69d84096ed5e7f
+Time    : 2026-03-13T13:10:02.340047
+
+HEADERS:
+  x-amz-apigw-id: aKbqlGBpoAMEiSw=
+  x-amzn-trace-id: Root=1-69b40ca9-69fd6dc46128de500c609830;Parent=248fceeaf6f72a5e;Sampled=0;Lineage=1:549616ec:0
+  access-control-allow-credentials: true
+  x-amzn-requestid: ae6abd33-319f-4147-8df5-ce5fac43d9d9
+  via: 1.1 db129cda1d3ba1b67c3281d54906cdcc.cloudfront.net (CloudFront), 1.1 9773a5091daf4b94a65f88adf32fd1fc.cloudfront.net (CloudFront)
+  access-control-allow-origin: https://app.neilpatel.com
+  x-cache: Miss from cloudfront
+  content-length: 279
+  x-amz-cf-id: 0PLTWCTySMQMjegy5LO95mfBgk_0c0pn-RjGvSvVMbgmKmIo2rMIvg==
+  date: Fri, 13 Mar 2026 13:10:01 GMT
+  content-type: application/json
+  x-amz-cf-pop: IAD61-P13, BOS50-P4
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+
+BODY (279 bytes):
+{"competitors_per_project": 2, "content_ideas": 10, "keywords": 20, "keywords_per_project": 25, "locations_per_project": 1, "pages_to_crawl": 150, "projects": 1, "reports": 3, "top_pages": 10, "brands": 1, "prompts_per_brand": 10, "prompts_per_keyword": 5, "topics_per_brand": 1}

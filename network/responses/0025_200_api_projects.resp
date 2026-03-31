@@ -1,0 +1,38 @@
+================================================================================
+RESPONSE #25
+================================================================================
+URL     : https://app.neilpatel.com/api/projects
+Status  : 200 
+MIME    : application/json
+IP      : 18.239.183.50
+Cache   : False
+Size    : 16 bytes
+SHA-256 : 7d3af0cbe6c2131c8ac607ff89f28e1d474c8445d4aefe856f05535ef61d4352
+Time    : 2026-03-13T13:10:02.379041
+
+HEADERS:
+  access-control-expose-headers: X-RateLimit-Remaining,X-RateLimit-Reset,X-RateLimit-RequestCost
+  x-ratelimit-requestcost: 1
+  x-amzn-requestid: ef592fae-710b-4a2f-aae8-82da16d12bc2
+  x-cache: Miss from cloudfront
+  x-amz-cf-id: j5JOtB8pRXf9ZJXJDamjXBobmDxWnnZQB4bdlXUNQVsBw-9tun35eg==
+  date: Fri, 13 Mar 2026 13:10:01 GMT
+  content-type: application/json
+  x-amz-apigw-id: aKbqlH-_oAMEBvQ=
+  x-amzn-trace-id: Root=1-69b40ca9-6373be084a5f3e6d7ea5062d;Parent=0dc01e20594dd434;Sampled=0;Lineage=1:9552f4df:0
+  access-control-allow-credentials: true
+  x-ratelimit-reset: 1773447664
+  via: 1.1 db129cda1d3ba1b67c3281d54906cdcc.cloudfront.net (CloudFront), 1.1 9773a5091daf4b94a65f88adf32fd1fc.cloudfront.net (CloudFront)
+  x-ratelimit-remaining: 191
+  access-control-allow-origin: https://app.neilpatel.com
+  content-length: 16
+  x-amz-cf-pop: IAD61-P13, BOS50-P4
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+
+BODY (16 bytes):
+{"projects": []}

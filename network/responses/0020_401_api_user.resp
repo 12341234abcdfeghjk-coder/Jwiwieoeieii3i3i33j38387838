@@ -1,0 +1,35 @@
+================================================================================
+RESPONSE #20
+================================================================================
+URL     : https://app.neilpatel.com/api/user?preferred_locale=en&city=New%20York&country=United%20States&countryCode=US&timezone=America%2FNew_York&regionName=New%20York
+Status  : 401 
+MIME    : application/json
+IP      : 18.239.183.50
+Cache   : False
+Size    : 78 bytes
+SHA-256 : e8061b2f1a40de7fdc689bf701820dfa7cb622cfa2df018fb33fb23776edb2bd
+Time    : 2026-03-13T13:10:02.107037
+
+HEADERS:
+  access-control-expose-headers: X-Lifetime-Offer-Until,Set-Cookie
+  x-amz-apigw-id: aKbqjFoJIAMEAgw=
+  x-amzn-trace-id: Root=1-69b40ca9-46751eac17ceb51a4f0ee4e5;Parent=3a681204038af3fe;Sampled=0;Lineage=1:549616ec:0
+  access-control-allow-credentials: true
+  x-amzn-requestid: a51f7611-abe9-4c74-bb09-4ccde407da0b
+  via: 1.1 361e5a88d32674742a79fe8e145762a0.cloudfront.net (CloudFront), 1.1 9773a5091daf4b94a65f88adf32fd1fc.cloudfront.net (CloudFront)
+  access-control-allow-origin: https://app.neilpatel.com
+  x-cache: Error from cloudfront
+  content-length: 78
+  x-amz-cf-id: I9_pitRdTHqaVq1svUZ1cprHYClfoFxStIiaAYpSYrmmIwMSc4AOEg==
+  date: Fri, 13 Mar 2026 13:10:01 GMT
+  content-type: application/json
+  x-amz-cf-pop: IAD61-P13, BOS50-P4
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+
+BODY (78 bytes):
+{"error": "INVALID_USER_SESSION", "description": "login required", "code": ""}
