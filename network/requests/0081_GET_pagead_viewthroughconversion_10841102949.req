@@ -1,0 +1,22 @@
+================================================================================
+REQUEST #81
+================================================================================
+URL    : https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10841102949/?random=1773407402594&cv=11&fst=1773407402594&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be63b1za200zb830754933zd830754933xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~115938466~115938468~116024733~117484252&u_w=1280&u_h=720&url=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&frm=0&tiba=Sign%20Up%20for%20Ubersuggest&did=dZTQ1Zm&gdid=dZTQ1Zm&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=963665120.1773407402&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B145.0.7632.160%7CChromium%3B145.0.7632.160&uamb=0&uam=&uap=Windows&uapv=12.0.0&uaw=0&_tu=CA&data=event%3Dgtag.config&rfmt=3&fmt=4
+Method : GET
+Type   : Script
+Time   : 2026-03-13T13:10:02.646048
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+
+INITIATOR:
+  type: script
+  https://www.googletagmanager.com/gtag/js?id=AW-10841102949:139
+  https://www.googletagmanager.com/gtag/js?id=AW-10841102949:321
+  https://www.googletagmanager.com/gtag/js?id=AW-10841102949:322
+  https://www.googletagmanager.com/gtag/js?id=AW-10841102949:485
+  https://www.googletagmanager.com/gtag/js?id=AW-10841102949:484

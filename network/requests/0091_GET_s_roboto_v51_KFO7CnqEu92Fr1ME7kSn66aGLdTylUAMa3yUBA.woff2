@@ -1,0 +1,18 @@
+================================================================================
+REQUEST #91
+================================================================================
+URL    : https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+Method : GET
+Type   : Font
+Time   : 2026-03-13T13:10:02.724048
+
+HEADERS:
+  Origin: https://app.neilpatel.com
+  sec-ch-ua-platform: "Windows"
+  Referer: https://fonts.googleapis.com/
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+
+INITIATOR:
+  type: parser

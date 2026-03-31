@@ -1,0 +1,26 @@
+================================================================================
+REQUEST #54
+================================================================================
+URL    : https://ubersuggest.zendesk.com/frontendevents/pv?client=1B752747-577B-429A-A0E0-83861AF69088
+Method : POST
+Type   : Fetch
+Time   : 2026-03-13T13:10:02.513046
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: 
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  Content-Type: application/json
+  sec-ch-ua-mobile: ?0
+
+BODY:
+{"url":"https://app.neilpatel.com/en/register/?mpsource=signup_popup","buid":"2617faf6e0f740438bfa5d038acbdd51","channel":"web_messenger","version":"d1c461b","timestamp":"2026-03-13T13:10:02.047Z","suid":"2e718b8821744db8a271b77f2975c0a9","pageView":{"pageTitle":"Sign Up for Ubersuggest","referrer":"https://app.neilpatel.com/en/register/?mpsource=signup_popup","time":180,"loadTime":1574,"navigatorLanguage":"en-US","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","helpCenterDedup":false}}
+
+INITIATOR:
+  type: script
+  :159
+  https://static.zdassets.com/web_widget/messenger/latest/web-widget-main-d1c461b.js:1
+  https://static.zdassets.com/web_widget/messenger/latest/web-widget-main-d1c461b.js:1
+  https://static.zdassets.com/web_widget/messenger/latest/web-widget-main-d1c461b.js:1
+  https://static.zdassets.com/web_widget/messenger/latest/web-widget-main-d1c461b.js:1

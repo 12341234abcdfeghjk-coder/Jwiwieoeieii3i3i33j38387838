@@ -1,0 +1,25 @@
+================================================================================
+REQUEST #24
+================================================================================
+URL    : https://app.neilpatel.com/api/user?preferred_locale=en&city=New%20York&country=United%20States&countryCode=US&timezone=America%2FNew_York&regionName=New%20York
+Method : GET
+Type   : XHR
+Time   : 2026-03-13T13:10:01.893030
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/en/register/?mpsource=signup_popup
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+  baggage: sentry-environment=green,sentry-release=v7.2.5,sentry-public_key=c084f2fb6256c96b167d709bc327b164,sentry-trace_id=5efe253f4c394675a84afa004a0cf0b6,sentry-sampled=true,sentry-sample_rand=0.1492407437151898,sentry-sample_rate=1
+  sentry-trace: 5efe253f4c394675a84afa004a0cf0b6-9e8d4b793f98dfa8-1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  Accept: application/json, text/plain, */*
+
+INITIATOR:
+  type: script
+  :190
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1937
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1937
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1002
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1002

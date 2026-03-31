@@ -1,0 +1,25 @@
+================================================================================
+REQUEST #75
+================================================================================
+URL    : https://t.neilpatel.com/v1/lst/gusid
+Method : GET
+Type   : XHR
+Time   : 2026-03-13T13:10:02.618052
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Ref-Url: https://app.neilpatel.com/en/register/?mpsource=signup_popup
+  Referer: https://app.neilpatel.com/
+  Product-ID: 212612
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  fp: 4e7afab2b3ffe9cd199617ab4b644bdf
+
+INITIATOR:
+  type: script
+  :190
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1937
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1937
+  https://t.neilpatel.com/v1/lst/universal-script?ph=2bee8320da5f442befa66db82b48ebfbf4c0f0d62565f2d841d19b235f4f6410&tag=!clicked&ref_url=https://app.neilpatel.com/en/register/?mpsource=signup_popup:0
+  https://t.neilpatel.com/v1/lst/universal-script?ph=2bee8320da5f442befa66db82b48ebfbf4c0f0d62565f2d841d19b235f4f6410&tag=!clicked&ref_url=https://app.neilpatel.com/en/register/?mpsource=signup_popup:0

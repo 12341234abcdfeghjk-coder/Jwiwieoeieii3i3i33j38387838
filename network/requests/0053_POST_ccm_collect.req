@@ -1,0 +1,22 @@
+================================================================================
+REQUEST #53
+================================================================================
+URL    : https://www.google.com/ccm/collect?frm=0&ae=g&dl=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F&scrsrc=load.d.neilpatel.com&rnd=2070732965.1773407402&dt=Sign%20Up%20for%20Ubersuggest&auid=963665120.1773407402&navt=n&npa=0&_tu=CA&gtm=45be63b1v890883431z8830754933za20kzb830754933zd830754933xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~115616986~115938466~115938469~116024733~117384405~117484252&apve=1&apvf=f&apvc=0&tids=AW-348714864&tid=AW-348714864&tft=1773407402022&tfd=2503
+Method : POST
+Type   : Fetch
+Time   : 2026-03-13T13:10:02.418044
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+
+INITIATOR:
+  type: script
+  :159
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1929
+  https://load.d.neilpatel.com/3cb1bwbylavu.js?5rpwx2u=HBJcKy0vWjU4PCMkTzhRFEhET11fBhlfGxMIAAkDAwcZWAIDFA%3D%3D:1062
+  https://load.d.neilpatel.com/gtag/js?id=AW-348714864&cx=c&gtm=4e63b1:153
+  https://load.d.neilpatel.com/gtag/js?id=AW-348714864&cx=c&gtm=4e63b1:330

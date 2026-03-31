@@ -1,0 +1,21 @@
+================================================================================
+REQUEST #10
+================================================================================
+URL    : https://ekr.zdassets.com/compose/fb916b7d-48ea-4f54-a836-ece41c533df8
+Method : GET
+Type   : Fetch
+Time   : 2026-03-13T13:10:00.477002
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+
+INITIATOR:
+  type: script
+  :159
+  https://static.zdassets.com/ekr/snippet.js?key=fb916b7d-48ea-4f54-a836-ece41c533df8:0
+  https://static.zdassets.com/ekr/snippet.js?key=fb916b7d-48ea-4f54-a836-ece41c533df8:0
+  https://static.zdassets.com/ekr/snippet.js?key=fb916b7d-48ea-4f54-a836-ece41c533df8:0
