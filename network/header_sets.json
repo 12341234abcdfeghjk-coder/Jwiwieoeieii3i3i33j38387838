@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Authorization",
+    "value": "Bearer app#unlogged__600bc1e73c24c6cb166d22f88a7b2cc7e38eef71",
+    "url": "/api/geolocation",
+    "method": "GET",
+    "stack": [
+      "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+      "at Object.apply (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1938:15692)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6759",
+      "at Object.TA [as forEach] (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1001:135974)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6724",
+      "at new Promise (<anonymous>)",
+      "at xhr (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:5377)",
+      "at Ym.LZ (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1005:540)"
+    ],
+    "caller_file": "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+    "caller_line": "174",
+    "ms": 1203,
+    "iso": "2026-03-13T13:10:01.276Z",
+    "analysis": {
+      "algorithm": "UNKNOWN",
+      "library": null,
+      "vendor": null,
+      "encoding": "text",
+      "decoded": null,
+      "structure": null,
+      "security": "UNVERIFIED",
+      "confidence": 0,
+      "details": [],
+      "length": 61
+    }
+  },
+  {
+    "name": "Authorization",
+    "value": "Bearer app#unlogged__600bc1e73c24c6cb166d22f88a7b2cc7e38eef71",
+    "url": "/api/projects",
+    "method": "GET",
+    "stack": [
+      "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+      "at Object.apply (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1938:15692)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6759",
+      "at Object.TA [as forEach] (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1001:135974)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6724",
+      "at new Promise (<anonymous>)",
+      "at xhr (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:5377)",
+      "at Ym.LZ (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1005:540)"
+    ],
+    "caller_file": "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+    "caller_line": "174",
+    "ms": 1601,
+    "iso": "2026-03-13T13:10:01.674Z",
+    "analysis": {
+      "algorithm": "UNKNOWN",
+      "library": null,
+      "vendor": null,
+      "encoding": "text",
+      "decoded": null,
+      "structure": null,
+      "security": "UNVERIFIED",
+      "confidence": 0,
+      "details": [],
+      "length": 61
+    }
+  },
+  {
+    "name": "Authorization",
+    "value": "Bearer app#unlogged__600bc1e73c24c6cb166d22f88a7b2cc7e38eef71",
+    "url": "/api/user/limits",
+    "method": "GET",
+    "stack": [
+      "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+      "at Object.apply (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1938:15692)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6759",
+      "at Object.TA [as forEach] (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1001:135974)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6724",
+      "at new Promise (<anonymous>)",
+      "at xhr (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:5377)",
+      "at Ym.LZ (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1005:540)"
+    ],
+    "caller_file": "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+    "caller_line": "174",
+    "ms": 1602,
+    "iso": "2026-03-13T13:10:01.675Z",
+    "analysis": {
+      "algorithm": "UNKNOWN",
+      "library": null,
+      "vendor": null,
+      "encoding": "text",
+      "decoded": null,
+      "structure": null,
+      "security": "UNVERIFIED",
+      "confidence": 0,
+      "details": [],
+      "length": 61
+    }
+  },
+  {
+    "name": "authorization",
+    "value": "Basic MGY0N2FhZTBkYmVkYzAzYjkwNTRiM2JlMTA0ZWE1NTc6",
+    "url": "https://fink.neilpatelapi.com/record/?%24current_url=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&%24lib_version=2.71.0&batch_start_time=1773407402.277&mp_lib=web&replay_id=1e0805c3-79bb-4a94-9b4b-52f72d78b38b&replay_length_ms=9786&replay_start_time=1773407402.277&replay_start_url=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&seq=0&distinct_id=%24device%3Afcd6356d-f8e5-4b39-883a-6927761e71ea&%24device_id=fcd6356d-f8e5-4b39-883a-6927761e71ea&format=gzip",
+    "method": "POST",
+    "stack": [
+      "at window.fetch (<anonymous>:138:17)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1930:7563",
+      "at https://load.d.neilpatel.com/3cb1bwbylavu.js?5rpwx2u=HBJcKy0vWjU4PCMkTzhRFEhET11fBhlfGxMIAAkDAwcZWAIDFA%3D%3D:1063:824",
+      "at la._sendRequest (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1064:32680)",
+      "at la.<anonymous> (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1064:34033)"
+    ],
+    "caller_file": "at window.fetch (<anonymous>:138:17)",
+    "caller_line": "138",
+    "ms": 12318,
+    "iso": "2026-03-13T13:10:12.391Z",
+    "analysis": {
+      "algorithm": "UNKNOWN",
+      "library": null,
+      "vendor": null,
+      "encoding": "text",
+      "decoded": null,
+      "structure": null,
+      "security": "UNVERIFIED",
+      "confidence": 0,
+      "details": [],
+      "length": 50
+    }
+  },
+  {
+    "name": "X-UBS-APP",
+    "value": "9929edf1a7e25c9b529916e662b37846b200285e1ab1213a57638a27b0096214f45f6d77a579ca43809676f4232c8bff53e68ce4037ead0b0b11e227f741bfea",
+    "url": "/api/user/signup",
+    "method": "POST",
+    "stack": [
+      "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+      "at Object.apply (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1938:15692)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6759",
+      "at Object.TA [as forEach] (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1001:135974)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6724",
+      "at new Promise (<anonymous>)",
+      "at xhr (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:5377)",
+      "at Ym.LZ (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1005:540)"
+    ],
+    "caller_file": "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+    "caller_line": "174",
+    "ms": 41758,
+    "iso": "2026-03-13T13:10:41.831Z",
+    "analysis": {
+      "algorithm": "SHA-512",
+      "library": null,
+      "vendor": null,
+      "encoding": "Hex",
+      "decoded": "�ݽy��k����[�o}ק��f���:om4��^զ��]�羷�oM=�mx�_���k��q�7�Oz���}����w��Ǹ�~�i�\u001bѽu{m��5m��",
+      "structure": null,
+      "security": "OK",
+      "confidence": 85,
+      "details": [
+        "128 hex = 64 bytes"
+      ],
+      "length": 128
+    }
+  },
+  {
+    "name": "X-UBS-APP",
+    "value": "4b7db120b2678ff2b2ede921645f7303bb7e58d7026953fcce9d7b7d97ceaafbbffe159b9ff0947ba0bc37444c268afb93e0e88a5fff3dfe784a21f15076633e",
+    "url": "/api/user/signup",
+    "method": "POST",
+    "stack": [
+      "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+      "at Object.apply (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1938:15692)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6759",
+      "at Object.TA [as forEach] (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1001:135974)",
+      "at https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:6724",
+      "at new Promise (<anonymous>)",
+      "at xhr (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1003:5377)",
+      "at Ym.LZ (https://app.neilpatel.com/assets/index-BkRdpDGn.js:1005:540)"
+    ],
+    "caller_file": "at XMLHttpRequest.setRequestHeader (<anonymous>:174:21)",
+    "caller_line": "174",
+    "ms": 43702,
+    "iso": "2026-03-13T13:10:43.775Z",
+    "analysis": {
+      "algorithm": "SHA-512",
+      "library": null,
+      "vendor": null,
+      "encoding": "Hex",
+      "decoded": "��o]�on����og�{ݵ�_�}7m����{�n��w�q�]�����\u001ei��m��ן[������kF�߾8�ͺ���w�{�\u001a��������\u001a�W��N��}�",
+      "structure": null,
+      "security": "OK",
+      "confidence": 85,
+      "details": [
+        "128 hex = 64 bytes"
+      ],
+      "length": 128
+    }
+  }
+]

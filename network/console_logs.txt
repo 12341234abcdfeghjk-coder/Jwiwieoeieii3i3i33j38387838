@@ -1,0 +1,40 @@
+[2026-03-13T13:09:58][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:00][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:01][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:01][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:01][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c [UTS] [fp] init color: green;
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c [UTS] [fp]: 4e7afab2b3ffe9cd199617ab4b644bdf color: green;
+[2026-03-13T13:10:02][log  ] %c [UTS] [gusid]: HB-ET_b7f661451a094bc8f32b1835c3c38e025873573ea912ebfd424dee5834a52ccd color: green;
+[2026-03-13T13:10:03][log  ] %c [UTS] [pc] color: green;
+[2026-03-13T13:10:06][log  ] %c [UTS] [_fbp_c] ; _fbp=fb.1.1773407402190.1852565480,;,fb.1.1773407402190.1852565480 color: green;
+[2026-03-13T13:10:07][log  ] %c [UTS] [pcu]. color: green;
+[2026-03-13T13:10:09][log  ] %c [UTS] [hte]. color: green;
+[2026-03-13T13:10:11][log  ] %c [UTS] [hte]. color: green;
+[2026-03-13T13:10:16][log  ] %c [UTS] No NF on page color: green;
+[2026-03-13T13:10:35][warning] [Cloudflare Turnstile] Cannot determine Turnstile's embedded location, aborting clearance redemption, are you running Turnstile on a Cloudflare Zone?
+[2026-03-13T13:10:41][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:43][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:00][log  ] %c🔬 Web Forensics v5 — TOTAL CAPTURE active color:#00d4ff;font-weight:bold;font-size:1.1em
+[2026-03-13T13:10:02][log  ] %c [UTS] [fp] init color: green;
+[2026-03-13T13:10:02][log  ] %c [UTS] [fp]: 4e7afab2b3ffe9cd199617ab4b644bdf color: green;
+[2026-03-13T13:10:02][log  ] %c [UTS] [gusid]: HB-ET_b7f661451a094bc8f32b1835c3c38e025873573ea912ebfd424dee5834a52ccd color: green;
+[2026-03-13T13:10:03][log  ] %c [UTS] [pc] color: green;
+[2026-03-13T13:10:06][log  ] %c [UTS] [_fbp_c] ; _fbp=fb.1.1773407402190.1852565480,;,fb.1.1773407402190.1852565480 color: green;
+[2026-03-13T13:10:07][log  ] %c [UTS] [pcu]. color: green;
+[2026-03-13T13:10:09][log  ] %c [UTS] [hte]. color: green;
+[2026-03-13T13:10:11][log  ] %c [UTS] [hte]. color: green;
+[2026-03-13T13:10:16][log  ] %c [UTS] No NF on page color: green;
+[2026-03-13T13:10:35][warn ] [Cloudflare Turnstile] Cannot determine Turnstile's embedded location, aborting clearance redemption, are you running Turnstile on a Cloudflare Zone?
