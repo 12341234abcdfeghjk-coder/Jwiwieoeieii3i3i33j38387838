@@ -1,0 +1,20 @@
+================================================================================
+REQUEST #104
+================================================================================
+URL    : https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/4iib5/0x4AAAAAACfm1moyUx8hKbCa/light/fbE/new/normal?lang=en
+Method : GET
+Type   : Document
+Time   : 2026-03-13T13:10:03.254057
+
+HEADERS:
+  Referer: https://app.neilpatel.com/
+  Upgrade-Insecure-Requests: 1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+  sec-ch-ua-platform: "Windows"
+
+INITIATOR:
+  type: script
+  https://challenges.cloudflare.com/turnstile/v0/api.js?onload=cf__reactTurnstileOnLoad&render=explicit:0
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1729

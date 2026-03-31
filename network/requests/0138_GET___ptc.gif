@@ -1,0 +1,17 @@
+================================================================================
+REQUEST #138
+================================================================================
+URL    : https://track-eu1.hubspot.com/__ptc.gif?_hs_tag_name=BUTTON&_hs_element_id=&_hs_element_class=sc-JrDLc+cDhXUa&_hs_element_text=REGISTER&_hs_element_visible=true&_hs_link_href=&_hs_parent_module_id=&_hs_viewport_width=710&_hs_viewport_height=586&_hs_document_width=710&_hs_document_height=586&_hs_screen_width=1280&_hs_screen_height=720&_hs_scroll_x_coordinate=&_hs_scroll_y_coordinate=&_hs_mouse_x_coordinate=413&_hs_mouse_y_coordinate=459&_hs_offset_x=358&_hs_offset_y=34&_hs_key_ctrl=&_hs_key_shift=&_hs_key_alt=&_hs_key_meta=&_hs_touch_screen=&_hs_selector=div%23root+%3E+div.sc-bvrlno.erNsJv+%3E+div.sc-ixKSzz.ffsnyR+%3E+div.sc-bEhhBa.gwpxAQ+%3E+div.sc-fLvQuD.filkAQ+%3E+div.sc-cRmqLi.cPtFlw+%3E+form.sc-dUWDJJ.lkemyZ+%3E+button.sc-JrDLc.cDhXUa&_hs_is_navigation=&sd=1280x720&cd=32-bit&cs=UTF-8&ln=en-us&bfp=fc3ed8d24c6f1aae7220d3d32079a03d&v=1.1&a=25525864&pu=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&t=Sign+Up+for+Ubersuggest&cts=1773407441643&vi=295a9bb89c503318cd395d25953b95dc&nc=true&u=240018588.295a9bb89c503318cd395d25953b95dc.1773407403781.1773407403781.1773407403781.1&b=240018588.1.1773407403781&cc=15
+Method : GET
+Type   : Image
+Time   : 2026-03-13T13:10:41.646119
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+
+INITIATOR:
+  type: script

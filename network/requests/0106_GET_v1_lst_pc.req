@@ -1,0 +1,34 @@
+================================================================================
+REQUEST #106
+================================================================================
+URL    : https://t.neilpatel.com/v1/lst/pc?ref_url=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&u_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F145.0.0.0+Safari%2F537.36&fp=4e7afab2b3ffe9cd199617ab4b644bdf
+Method : GET
+Type   : Fetch
+Time   : 2026-03-13T13:10:03.591064
+
+HEADERS:
+  Access-Control-Allow-Headers: *
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/
+  Product-ID: 212612
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+  Access-Control-Allow-Origin: *
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  Content-type: application/json; charset=utf-8
+  Session-ID: HB-ET_b7f661451a094bc8f32b1835c3c38e025873573ea912ebfd424dee5834a52ccd
+  L-Gen-ID: LS_949ca3407af5b14f8e32f2351834a8c00e7321cd195d5844047f69039c19528c
+
+SENSITIVE HEADERS ANALYSIS:
+  Session-ID: HB-ET_b7f661451a094bc8f32b1835c3c38e025873573ea912ebfd424dee5834a52ccd
+    Algorithm : HB-{prefix}+SHA256(device_fingerprint)
+    Library   : UTS Universal Tracking Script
+    Confidence: 90%
+
+INITIATOR:
+  type: script
+  :159
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1929
+  https://load.d.neilpatel.com/3cb1bwbylavu.js?5rpwx2u=HBJcKy0vWjU4PCMkTzhRFEhET11fBhlfGxMIAAkDAwcZWAIDFA%3D%3D:1062
+  https://t.neilpatel.com/v1/lst/universal-script?ph=2bee8320da5f442befa66db82b48ebfbf4c0f0d62565f2d841d19b235f4f6410&tag=!clicked&ref_url=https://app.neilpatel.com/en/register/?mpsource=signup_popup:0
+  https://t.neilpatel.com/v1/lst/universal-script?ph=2bee8320da5f442befa66db82b48ebfbf4c0f0d62565f2d841d19b235f4f6410&tag=!clicked&ref_url=https://app.neilpatel.com/en/register/?mpsource=signup_popup:0

@@ -1,0 +1,18 @@
+================================================================================
+REQUEST #107
+================================================================================
+URL    : https://t.neilpatel.com/v1/lst/pc?ref_url=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&u_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F145.0.0.0+Safari%2F537.36&fp=4e7afab2b3ffe9cd199617ab4b644bdf
+Method : OPTIONS
+Type   : Other
+Time   : 2026-03-13T13:10:03.686072
+
+HEADERS:
+  Accept: */*
+  Access-Control-Request-Headers: access-control-allow-headers,access-control-allow-origin,content-type,l-gen-id,product-id,session-id
+  Access-Control-Request-Method: GET
+  Origin: https://app.neilpatel.com
+  Sec-Fetch-Mode: cors
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+
+INITIATOR:
+  type: preflight

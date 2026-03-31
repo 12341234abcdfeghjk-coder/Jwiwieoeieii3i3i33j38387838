@@ -1,0 +1,26 @@
+================================================================================
+REQUEST #134
+================================================================================
+URL    : https://analytics.tiktok.com/api/v2/pixel/inter
+Method : POST
+Type   : Ping
+Time   : 2026-03-13T13:10:22.793258
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  Content-Type: text/plain;charset=UTF-8
+  sec-ch-ua-mobile: ?0
+
+BODY:
+{"event_id":"","message_id":"messageId-1773407422790-2410671382623","is_onsite":false,"timestamp":"2026-03-13T13:10:22.791Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"01KKKN2YS3AY78Y85B97HQP3FF_.tt.1"},"pixel":{"code":"CC367VRC77UBH2MM6DN0","runtime":"1","codes":"CC367VRC77UBH2MM6DN0"},"page":{"url":"https://app.neilpatel.com/en/register/?mpsource=signup_popup","referrer":"","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.1"},"session_id":"f1def69a-1edd-11f1-bfad-b83fd2f4652e::WmgwfMtM4CEEMZf8XTra","pageview_id":"f1def69a-1edd-11f1-bfad-b83fd2f4652e-fhB2s.0.0::f1dee39a-1edd-11f1-bfad-b83fd2f4652e","variation_id":"default","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36","index":0},"_inspection":{"vids":""},"properties":{},"signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"missing"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"missing"},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"},"raw_eb_email":{"label":"missing"},"raw_eb_phone":{"label":"missing"},"hashed_eb_email":{"label":"missing"},"hashed_eb_phone":{"label":"missing"}},"action":"Pf","auto_collected_properties":{"action_event":"twt","inter":{"ct":2,"st":0},"page_inter":{"metrics_type":"ct|st","ct":2,"st":0}}}
+
+INITIATOR:
+  type: script
+  https://load.d.neilpatel.com/3cb1bwbylavu.js?5rpwx2u=HBJcKy0vWjU4PCMkTzhRFEhET11fBhlfGxMIAAkDAwcZWAIDFA%3D%3D:1062
+  https://t.neilpatel.com/v1/lst/universal-script?ph=2bee8320da5f442befa66db82b48ebfbf4c0f0d62565f2d841d19b235f4f6410&tag=!clicked&ref_url=https://app.neilpatel.com/en/register/?mpsource=signup_popup:0
+  https://analytics.tiktok.com/i18n/pixel/static/main.MTEwMjY2ZTExOQ.js:0
+  https://analytics.tiktok.com/i18n/pixel/static/main.MTEwMjY2ZTExOQ.js:0
+  https://analytics.tiktok.com/i18n/pixel/static/main.MTEwMjY2ZTExOQ.js:0

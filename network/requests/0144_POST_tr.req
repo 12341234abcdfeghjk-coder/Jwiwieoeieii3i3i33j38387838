@@ -1,0 +1,23 @@
+================================================================================
+REQUEST #144
+================================================================================
+URL    : https://www.facebook.com/tr/
+Method : POST
+Type   : Document
+Time   : 2026-03-13T13:10:41.855121
+
+HEADERS:
+  Content-Type: application/x-www-form-urlencoded
+  Origin: https://app.neilpatel.com
+  Referer: https://app.neilpatel.com/
+  Upgrade-Insecure-Requests: 1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  sec-ch-ua-mobile: ?0
+  sec-ch-ua-platform: "Windows"
+
+BODY:
+id=290266399967247&ev=SubscribedButtonClick&dl=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&rl=&if=false&ts=1773407441802&cd%5BbuttonFeatures%5D=%7B%22classList%22%3A%22sc-JrDLc+cDhXUa%22%2C%22destination%22%3A%22https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22REGISTER%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22button%22%2C%22type%22%3A%22submit%22%2C%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D&cd%5BbuttonText%5D=REGISTER&cd%5BformFeatures%5D=%5B%7B%22id%22%3A%22%22%2C%22name%22%3A%22email%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Email%22%2C%22inputType%22%3Anull%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22password%22%2C%22tag%22%3A%22input%22%2C%22placeholder%22%3A%22Password%22%2C%22inputType%22%3A%22password%22%7D%2C%7B%22id%22%3A%22%22%2C%22name%22%3A%22%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22checkbox%22%7D%2C%7B%22id%22%3A%22cf-chl-widget-4iib5_response%22%2C%22name%22%3A%22cf-turnstile-response%22%2C%22tag%22%3A%22input%22%2C%22inputType%22%3A%22hidden%22%7D%5D&cd%5BpageFeatures%5D=%7B%22title%22%3A%22Sign+Up+for+Ubersuggest%22%7D&cd%5Bparameters%5D=%5B%5D&sw=1280&sh=720&cud%5Bexternal_id%5D=%23%23%23%23%23*%23%23-%23%23%23%23-%23%23%23%23-%23%23%23*-%23%23*%23%23%23%23%23***%23&cudff%5Bem%5D=*******%23%23%40*****.***&ncud%5Bexternal_id%5D=%23%23%23%23%23*%23%23-%23%23%23%23-%23%23%23%23-%23%23%23*-%23%23*%23%23%23%23%23***%23&ud%5Bexternal_id%5D=1ebf3fcb430703d229d9629476ac106e465ecf53e644a323d0516e0bcc407a1b&aud%5Bexternal_id%5D=1ebf3fcb430703d229d9629476ac106e465ecf53e644a323d0516e0bcc407a1b&ncudff%5Bem%5D=*******%23%23%40*****.***&udff%5Bem%5D=27a2256de439045c4fe2f103edf9bd3b2be13da6dbc073771bcaba35f9a408cb&audff%5Bem%5D=27a2256de439045c4fe2f103edf9bd3b2be13da6dbc073771bcaba35f9a408cb&v=2.9.277&r=stable&a=tmSimo-GTM-WebTemplate&ec=1&o=14366&fbp=fb.1.1773407402190.1852565480&cs_est=true&ler=empty&cdl=API_unavailable&pmd%5Blocale%5D=en&pmd%5Bdescription%5D=Sign+up+for+Ubersuggest+to+access+powerful+SEO+and+keyword+research+tools.+Increase+your+website+traffic+and+improve+your+rankings+today%21&plt=1584.5&it=1773407402426&coo=false&es=automatic&tm=3&expv2%5B0%5D=pl1&expv2%5B1%5D=el2&expv2%5B2%5D=bc1&expv2%5B3%5D=ra2&expv2%5B4%5D=rp2&expv2%5B5%5D=im0&expv2%5B6%5D=hf0&rqm=formPOST
+
+INITIATOR:
+  type: other

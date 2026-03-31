@@ -1,0 +1,18 @@
+================================================================================
+REQUEST #129
+================================================================================
+URL    : https://fink.neilpatelapi.com/record/?%24current_url=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&%24lib_version=2.71.0&batch_start_time=1773407402.277&mp_lib=web&replay_id=1e0805c3-79bb-4a94-9b4b-52f72d78b38b&replay_length_ms=9786&replay_start_time=1773407402.277&replay_start_url=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&seq=0&distinct_id=%24device%3Afcd6356d-f8e5-4b39-883a-6927761e71ea&%24device_id=fcd6356d-f8e5-4b39-883a-6927761e71ea&format=gzip
+Method : OPTIONS
+Type   : Other
+Time   : 2026-03-13T13:10:12.393842
+
+HEADERS:
+  Accept: */*
+  Access-Control-Request-Headers: authorization,content-type
+  Access-Control-Request-Method: POST
+  Origin: https://app.neilpatel.com
+  Sec-Fetch-Mode: cors
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+
+INITIATOR:
+  type: preflight

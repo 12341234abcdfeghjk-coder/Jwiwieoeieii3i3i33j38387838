@@ -1,0 +1,23 @@
+================================================================================
+REQUEST #154
+================================================================================
+URL    : https://sentry.neilpatelapi.com/api/3/envelope/?sentry_version=7&sentry_key=c084f2fb6256c96b167d709bc327b164&sentry_client=sentry.javascript.react%2F9.46.0
+Method : POST
+Type   : Fetch
+Time   : 2026-03-13T13:10:56.384028
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  Content-Type: text/plain;charset=UTF-8
+  sec-ch-ua-mobile: ?0
+
+BODY:
+{}
+{"type":"client_report"}
+{"timestamp":1773407456.376,"discarded_events":[{"reason":"before_send","category":"span","quantity":45}]}
+
+INITIATOR:
+  type: other

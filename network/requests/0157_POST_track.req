@@ -1,0 +1,26 @@
+================================================================================
+REQUEST #157
+================================================================================
+URL    : https://fink.neilpatelapi.com/track/?verbose=1&ip=1&_=1773407457061
+Method : POST
+Type   : XHR
+Time   : 2026-03-13T13:10:57.063037
+
+HEADERS:
+  sec-ch-ua-platform: "Windows"
+  Referer: https://app.neilpatel.com/
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+  sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+  Content-Type: application/x-www-form-urlencoded
+  sec-ch-ua-mobile: ?0
+
+BODY:
+data=W3siZXZlbnQiOiIkbXBfcGFnZV9sZWF2ZSIsInByb3BlcnRpZXMiOnsiJG9zIjoiV2luZG93cyIsIiRicm93c2VyIjoiQ2hyb21lIiwiJGN1cnJlbnRfdXJsIjoiaHR0cHM6Ly9hcHAubmVpbHBhdGVsLmNvbS9lbi9yZWdpc3Rlci8%2FbXBzb3VyY2U9c2lnbnVwX3BvcHVwIiwiJGJyb3dzZXJfdmVyc2lvbiI6MTQ1LCIkc2NyZWVuX2hlaWdodCI6NzIwLCIkc2NyZWVuX3dpZHRoIjoxMjgwLCJtcF9saWIiOiJ3ZWIiLCIkbGliX3ZlcnNpb24iOiIyLjcxLjAiLCIkaW5zZXJ0X2lkIjoic2gwYW10cWFqcGJlc2txaSIsInRpbWUiOjE3NzM0MDc0NTYuMzc1LCJkaXN0aW5jdF9pZCI6IiRkZXZpY2U6ZmNkNjM1NmQtZjhlNS00YjM5LTg4M2EtNjkyNzc2MWU3MWVhIiwiJGRldmljZV9pZCI6ImZjZDYzNTZkLWY4ZTUtNGIzOS04ODNhLTY5Mjc3NjFlNzFlYSIsIiRpbml0aWFsX3JlZmVycmVyIjoiJGRpcmVjdCIsIiRpbml0aWFsX3JlZmVycmluZ19kb21haW4iOiIkZGlyZWN0IiwidXNlcl9yZWN1cmx5X3BsYW5fbmFtZSI6bnVsbCwidXNlcl9wbGFuX25hbWUiOm51bGwsInVzZXJfcGxhbl90aWVyIjpudWxsLCJ1c2VyX2JpbGxpbmdfY3ljbGUiOm51bGwsInVzZXJfcHJpY2luZ19ncm91cCI6InJlZ3VsYXIiLCJ1c2VyX3N0YXR1cyI6InVubG9nZ2VkIiwic2lnbl9pbl9tZXRob2QiOiIiLCJkYXlzX3NpbmNlX3N0YXJ0ZWRfdHJpYWwiOiIiLCJkYXlzX3NpbmNlX3NpZ25lZF91cCI6IiIsInN0YXJ0X3RyaWFsX2RhdGUiOiIiLCJzaWduZWRfdXBfZGF0ZSI6IiIsInVzZXJfcGFyZW50IjoiIiwidXNlcl9kZXZpY2UiOiJkZXNrdG9wIiwidXNlcl9lbWFpbCI6InVua25vd24iLCJoYXNfcHJvamVjdCI6ZmFsc2UsImhhc19wcm9qZWN0X3dpdGhfdHJhY2tlZF9rZXl3b3JkcyI6ZmFsc2UsImV4cGVyaW1lbnRfcmVkdWNlcHJpY2VfbW9udGhseXRpZXIxX3YyIjoib3V0LW9mLWV4cGVyaW1lbnQiLCJleHBlcmltZW50X3NpZ251cF9jdGFfY29weSI6Im91dC1vZi1leHBlcmltZW50IiwiJG1heF9zY3JvbGxfdmlld19kZXB0aCI6NTg2LCIkbWF4X3Njcm9sbF9wZXJjZW50YWdlIjoxMDAsIiRmb2xkX2xpbmVfcGVyY2VudGFnZSI6MTAwLCIkc2Nyb2xsX2hlaWdodCI6NTg2LCIkZXZlbnRfdHlwZSI6InZpc2liaWxpdHljaGFuZ2UiLCIkdmlld3BvcnRIZWlnaHQiOjU4NiwiJHZpZXdwb3J0V2lkdGgiOjcxMCwiJG1wX2F1dG9jYXB0dXJlIjp0cnVlLCJ0b2tlbiI6IjBmNDdhYWUwZGJlZGMwM2I5MDU0YjNiZTEwNGVhNTU3IiwibXBfc2VudF9ieV9saWJfdmVyc2lvbiI6IjIuNzEuMCJ9fV0%3D
+
+INITIATOR:
+  type: script
+  :190
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1937
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1937
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1063
+  https://app.neilpatel.com/assets/index-BkRdpDGn.js:1063

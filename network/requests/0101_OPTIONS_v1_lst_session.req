@@ -1,0 +1,18 @@
+================================================================================
+REQUEST #101
+================================================================================
+URL    : https://lg.hyr.so/v1/lst/session
+Method : OPTIONS
+Type   : Other
+Time   : 2026-03-13T13:10:02.919053
+
+HEADERS:
+  Accept: */*
+  Access-Control-Request-Headers: access-control-allow-headers,access-control-allow-origin,content-type
+  Access-Control-Request-Method: GET
+  Origin: https://app.neilpatel.com
+  Sec-Fetch-Mode: cors
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+
+INITIATOR:
+  type: preflight
