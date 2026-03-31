@@ -1,0 +1,35 @@
+================================================================================
+RESPONSE #143
+================================================================================
+URL     : https://app.neilpatel.com/api/user/signup
+Status  : 400 
+MIME    : application/json
+IP      : 18.239.183.50
+Cache   : False
+Size    : 111 bytes
+SHA-256 : 68018fc495368384e192ec3c0455e5441c95fbf9d6ec76ac41ab5284ff5b0152
+Time    : 2026-03-13T13:10:44.033318
+
+HEADERS:
+  access-control-expose-headers: Set-Cookie
+  x-amz-apigw-id: aKbxKFc4oAMElFQ=
+  x-amzn-trace-id: Root=1-69b40cd3-5969e87b6087422f29b96a9b;Parent=58555743a72f20b7;Sampled=0;Lineage=1:1a2606da:0
+  access-control-allow-credentials: true
+  x-amzn-requestid: 6b1a2db2-7d40-4873-b3b7-b7964a0da9c0
+  via: 1.1 50945a5e55ce0bb0d3d24dbb2736a0a2.cloudfront.net (CloudFront), 1.1 9773a5091daf4b94a65f88adf32fd1fc.cloudfront.net (CloudFront)
+  access-control-allow-origin: https://app.neilpatel.com
+  x-cache: Error from cloudfront
+  content-length: 111
+  x-amz-cf-id: N3Xh96IK1iphLa0VozaphIKbELENHugSAu8JO5y9OgSUtdnBbTQsWQ==
+  date: Fri, 13 Mar 2026 13:10:43 GMT
+  content-type: application/json
+  x-amz-cf-pop: BOS50-P3, BOS50-P4
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+
+BODY (111 bytes):
+{"error": "BAD_REQUEST", "description": {"error": "existing_email", "user": "manstra43@gmail.com"}, "code": ""}

@@ -1,0 +1,32 @@
+================================================================================
+RESPONSE #17
+================================================================================
+URL     : https://sentry.neilpatelapi.com/api/3/envelope/?sentry_version=7&sentry_key=c084f2fb6256c96b167d709bc327b164&sentry_client=sentry.javascript.react%2F9.46.0
+Status  : 200 
+MIME    : application/json
+IP      : 34.201.89.8
+Cache   : False
+Size    : 2 bytes
+SHA-256 : 44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a
+Time    : 2026-03-13T13:10:01.916035
+
+HEADERS:
+  access-control-expose-headers: x-sentry-error,x-sentry-rate-limits,retry-after
+  cross-origin-resource-policy: cross-origin
+  access-control-allow-origin: *
+  content-length: 2
+  date: Fri, 13 Mar 2026 13:10:01 GMT
+  content-type: application/json
+  vary: origin, access-control-request-method, access-control-request-headers
+  server: nginx
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [HIGH] WILDCARD_CORS: access-control-allow-origin — 
+  [LOW] INFO_LEAK: server — 
+
+BODY (2 bytes):
+{}

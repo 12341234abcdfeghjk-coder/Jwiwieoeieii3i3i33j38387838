@@ -1,0 +1,39 @@
+================================================================================
+RESPONSE #122
+================================================================================
+URL     : https://analytics.tiktok.com/api/v2/pixel
+Status  : 200 
+MIME    : text/plain
+IP      : 23.211.241.27
+Cache   : False
+Size    : 0 bytes
+SHA-256 : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Time    : 2026-03-13T13:10:12.936859
+
+HEADERS:
+  access-control-allow-methods: GET,POST,PUT,PATCH,DELETE,HEAD,OPTIONS,UPDATE
+  expires: Fri, 13 Mar 2026 13:10:12 GMT
+  server-timing: inner; dur=23, cdn-cache; desc=MISS, edge; dur=3, origin; dur=33
+  x-cache: TCP_MISS from a23-54-147-27.deploy.akamaitechnologies.com (AkamaiGHost/22.4.4-e0e8e110f8cd22f17826d6ac7409b8da) (-)
+  date: Fri, 13 Mar 2026 13:10:12 GMT
+  x-akamai-request-id: 252fba2
+  x-tt-trace-host: 014274b835da94952d42709ff873466f0350524a0445f9a531a42552605fb7f30455c5f8ef2646fd82eff848ca34f0a7a7467c74207a3d84d09ad9fae0299a22050cbd57b952b2d8740f9721f9a93443c35751b7788fe2be54265e2ee96f0d7829
+  access-control-allow-headers: Authorization,*
+  x-origin-response-time: 33,23.54.147.27
+  cache-control: max-age=0, no-cache, no-store
+  pragma: no-cache
+  cross-origin-resource-policy: cross-origin
+  x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+  access-control-allow-origin: *
+  x-tt-trace-id: 00-260313131012B407FC3DE518F760C96D-5D4B80BBD364D4E9-00
+  content-length: 0
+  x-tt-logid: 20260313131012B407FC3DE518F760C96D
+  server: nginx
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [HIGH] WILDCARD_CORS: access-control-allow-origin — 
+  [LOW] INFO_LEAK: server — 

@@ -1,0 +1,29 @@
+================================================================================
+RESPONSE #93
+================================================================================
+URL     : https://www.facebook.com/tr/?id=290266399967247&ev=PageView&dl=https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fregister%2F%3Fmpsource%3Dsignup_popup&rl=&if=false&ts=1773407402881&sw=1280&sh=720&cud[external_id]=%23%23%23%23%23*%23%23-%23%23%23%23-%23%23%23%23-%23%23%23*-%23%23*%23%23%23%23%23***%23&ncud[external_id]=%23%23%23%23%23*%23%23-%23%23%23%23-%23%23%23%23-%23%23%23*-%23%23*%23%23%23%23%23***%23&ud[external_id]=1ebf3fcb430703d229d9629476ac106e465ecf53e644a323d0516e0bcc407a1b&aud[external_id]=1ebf3fcb430703d229d9629476ac106e465ecf53e644a323d0516e0bcc407a1b&v=2.9.277&r=stable&a=tmSimo-GTM-WebTemplate&ec=0&o=12318&fbp=fb.1.1773407402190.1852565480&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Sign%20Up%20for%20Ubersuggest&pmd[locale]=en&pmd[description]=Sign%20up%20for%20Ubersuggest%20to%20access%20powerful%20SEO%20and%20keyword%20research%20tools.%20Increase%20your%20website%20traffic%20and%20improve%20your%20rankings%20today!&plt=1584.5&it=1773407402426&coo=false&eid=1773407818567_17734080944283&tm=1&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf0&rqm=GET
+Status  : 200 
+MIME    : text/plain
+IP      : 31.13.71.36
+Cache   : False
+Size    : 0 bytes
+SHA-256 : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Time    : 2026-03-13T13:10:03.286062
+
+HEADERS:
+  strict-transport-security: max-age=31536000; includeSubDomains
+  x-fb-connection-quality: EXCELLENT; q=0.9, rtt=1, rtx=0, c=10, mss=1380, tbw=4559, tp=-1, tpl=-1, uplat=0, ullat=0
+  cross-origin-resource-policy: cross-origin
+  access-control-allow-credentials: true
+  access-control-allow-origin: 
+  alt-svc: h3=":443"; ma=86400
+  content-length: 0
+  date: Fri, 13 Mar 2026 13:10:03 GMT
+  content-type: text/plain
+  server: proxygen-bolt
+
+SECURITY ISSUES:
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 

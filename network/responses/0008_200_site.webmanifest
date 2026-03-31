@@ -1,0 +1,55 @@
+================================================================================
+RESPONSE #8
+================================================================================
+URL     : https://app.neilpatel.com/site.webmanifest
+Status  : 200 
+MIME    : application/manifest+json
+IP      : 18.239.183.50
+Cache   : False
+Size    : 443 bytes
+SHA-256 : 7540f99427c1d29d9fffe52b0bcd69e31560a2ab9fe9dfc6020e5afc9d1806cb
+Time    : 2026-03-13T13:10:01.564028
+
+HEADERS:
+  vary: Accept-Encoding
+  content-security-policy: frame-ancestors 'self';
+  etag: "203fa87f0e40aa8685edcadfc4dc8a47"
+  age: 18673
+  via: 1.1 Caddy, 1.1 02951a5bc9efeccdc17f938ee50fdb68.cloudfront.net (CloudFront)
+  x-cache: Hit from cloudfront
+  content-length: 443
+  x-amz-cf-id: n1S1_CUFwIKbRZr4hpyYGSynLYhUf978VEYXHCrzNvrtKU5AYokCuw==
+  date: Fri, 13 Mar 2026 08:04:44 GMT
+  content-type: application/manifest+json
+  last-modified: Wed, 11 Mar 2026 14:01:34 GMT
+  server: AmazonS3
+  x-amz-cf-pop: BOS50-P4
+  x-frame-options: SAMEORIGIN
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 
+
+BODY (443 bytes):
+{
+  "name": "Ubersuggest",
+  "short_name": "Ubersuggest",
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ff5e29",
+  "background_color": "#ff5e29",
+  "display": "standalone"
+}

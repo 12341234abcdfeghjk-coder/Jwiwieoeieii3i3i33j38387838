@@ -1,0 +1,32 @@
+================================================================================
+RESPONSE #82
+================================================================================
+URL     : https://t.neilpatel.com/v1/lst/gusid
+Status  : 200 
+MIME    : text/plain
+IP      : 52.205.62.94
+Cache   : False
+Size    : 0 bytes
+SHA-256 : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Time    : 2026-03-13T13:10:02.918052
+
+HEADERS:
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Front-End-Https: off
+  Access-Control-Max-Age: 86400
+  Access-Control-Expose-Headers: Session-ID, L-Gen-ID, Third-Party-Tracking-Hash
+  ETag: HB-ET_b7f661451a094bc8f32b1835c3c38e025873573ea912ebfd424dee5834a52ccd
+  Connection: keep-alive
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Methods: GET, PUT, POST, OPTIONS, DELETE
+  Access-Control-Allow-Origin: https://app.neilpatel.com
+  Content-Length: 0
+  Date: Fri, 13 Mar 2026 13:10:02 GMT
+  Server: nginx
+  Session-ID: HB-ET_b7f661451a094bc8f32b1835c3c38e025873573ea912ebfd424dee5834a52ccd
+
+SECURITY ISSUES:
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 

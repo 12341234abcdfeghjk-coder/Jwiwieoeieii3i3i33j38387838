@@ -1,0 +1,52 @@
+================================================================================
+RESPONSE #7
+================================================================================
+URL     : https://ekr.zdassets.com/compose/fb916b7d-48ea-4f54-a836-ece41c533df8
+Status  : 200 
+MIME    : application/json
+IP      : 216.198.54.3
+Cache   : False
+Size    : 1,643 bytes
+SHA-256 : c92aaad6c5861cfc7bde6137885bd5980e52eb7af127f6fcc4b04844da0bf59f
+Time    : 2026-03-13T13:10:01.564028
+
+HEADERS:
+  access-control-max-age: 7200
+  x-request-id: 9db345752c7b93bb-NRT
+  access-control-expose-headers: 
+  content-encoding: br
+  cf-cache-status: HIT
+  etag: W/"c92aaad6c5861cfc7bde6137885bd598"
+  age: 52
+  x-permitted-cross-domain-policies: none
+  report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=6Iue%2BTXA%2FkjzLBm0%2F9cdqkQQAvhbo4EIGOgpOmGXrUUP6wc4PO0XlyujrXQ9N7ygRWlcoTLhjz0toupApx1h8EE%2FseYVdDeeVpPSX4BBQeWXsxzuJy7cZGgQwC9B0kfqOAE%3D"}],"group":"cf-nel","max_age":604800}
+  access-control-allow-methods: GET, POST, OPTIONS
+  x-content-type-options: nosniff
+  date: Fri, 13 Mar 2026 13:10:00 GMT
+  content-type: application/json; charset=utf-8
+  vary: Accept,Origin, Accept-Encoding
+  x-runtime: 0.012608
+  x-frame-options: SAMEORIGIN
+  strict-transport-security: max-age=0
+  cdn-cache-control: max-age=60
+  cache-control: max-age=300, public, stale-while-revalidate=300, stale-if-error=21600
+  zendesk-service: embed-key-registry
+  nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  x-envoy-upstream-service-time: 14
+  referrer-policy: strict-origin-when-cross-origin
+  x-download-options: noopen
+  via: zorg
+  x-envoy-decorator-operation: /
+  cf-ray: 9dbb46bf0fbe8abe-EWR
+  access-control-allow-origin: *
+  x-zendesk-zorg: yes
+  x-xss-protection: 1; mode=block
+  server: cloudflare
+
+SECURITY ISSUES:
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [HIGH] WILDCARD_CORS: access-control-allow-origin — 
+  [LOW] INFO_LEAK: server — 
+
+BODY (1,643 bytes):
+{"products":[{"name":"web_widget","id":"ubersuggest.zendesk.com","bootstrap":{"config":{"features":{"multiConvoEnabled":true,"endUserConversations":true,"conversationTicketMetadata":true,"conversationTranscript":true,"displayAcWaitTimeCapsule":true,"conversationTranscriptGlobal":true},"messenger":{"reopenConversationDisabled":false,"canUserCreateMoreConversations":true,"color":{"message":"#00363d","action":"#00a656","primary":"#f16334"},"description":"Ask us anything","title":"Live Support","conversationTranscriptEnabled":false,"canUserSeeConversationList":true,"conversationHistory":"forget","appId":"63f7bc3788ef810119bbacdf","soundNotificationEnabled":true,"endSessionEnabled":false,"integrationId":"66eb409702df9546d685caa8","attachmentsEnabled":true,"privacyNoticeEnabled":true,"avatar":null,"positionOffset":{"mobile":{"horizontal":"16","vertical":"16"},"web":{"horizontal":"16","vertical":"16"}},"showZendeskLogo":true,"baseUrl":"https://ubersuggest.zendesk.com/sc/sdk","waitConfig":{"queuePollingInterval":60.0,"queuePositionEnabled":false,"onlyDecreasingQueue":false,"waitTimeEnabled":false},"channelLinkingEnabled":false,"frameBorderRadius":"0","privacyNoticeUrl":"https://npdigital.com/privacy-notice/","position":"right","proactiveMessagingEnabled":false,"launcher":{"shapeSettings":{"borderRadius":"0"},"showTextInMobile":false,"text":"Hi. Need any help?","shape":"square"}}}},"features":[],"url":"https://ekr.zendesk.com/compose_product/web_widget/d1c461b72d735a040608e08e05bc7c360e521733?features%5B%5D","assets":{"scripts":[{"src":"https://static.zdassets.com/web_widget/messenger/latest/web-widget-main-d1c461b.js"}]}}]}

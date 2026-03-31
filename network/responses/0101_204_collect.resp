@@ -1,0 +1,27 @@
+================================================================================
+RESPONSE #101
+================================================================================
+URL     : https://k.clarity.ms/collect
+Status  : 204 No Content
+MIME    : text/plain
+IP      : 172.175.38.6
+Cache   : False
+Size    : 0 bytes
+SHA-256 : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Time    : 2026-03-13T13:10:03.905073
+
+HEADERS:
+  Request-Context: appId=cid-v1:a449a586-8786-487f-a449-dc1b282a2628
+  Access-Control-Allow-Origin: https://app.neilpatel.com
+  Date: Fri, 13 Mar 2026 13:10:03 GMT
+  Vary: Origin
+  Server: nginx
+  Connection: keep-alive
+  Access-Control-Allow-Credentials: true
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 

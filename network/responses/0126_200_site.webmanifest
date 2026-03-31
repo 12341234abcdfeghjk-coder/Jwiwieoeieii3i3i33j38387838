@@ -1,0 +1,32 @@
+================================================================================
+RESPONSE #126
+================================================================================
+URL     : https://app.neilpatel.com/site.webmanifest
+Status  : 200 
+MIME    : application/manifest+json
+IP      : 18.239.183.50
+Cache   : False
+Size    : 0 bytes
+SHA-256 : 
+Time    : 2026-03-13T13:10:19.947642
+
+HEADERS:
+  last-modified: Wed, 11 Mar 2026 14:01:34 GMT
+  content-security-policy: frame-ancestors 'self';
+  etag: "203fa87f0e40aa8685edcadfc4dc8a47"
+  age: 18692
+  via: 1.1 Caddy, 1.1 02951a5bc9efeccdc17f938ee50fdb68.cloudfront.net (CloudFront)
+  x-cache: Hit from cloudfront
+  content-length: 443
+  x-amz-cf-id: g8moV5X1XAtWFcJv3zkuO6Gw6CgZxcVIpvku8vEEbTfLz7vjb1L6Iw==
+  date: Fri, 13 Mar 2026 13:10:19 GMT
+  x-amz-cf-pop: BOS50-P4
+  vary: Accept-Encoding
+  server: AmazonS3
+  content-type: application/manifest+json
+  x-frame-options: SAMEORIGIN
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 

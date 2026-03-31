@@ -1,0 +1,36 @@
+================================================================================
+RESPONSE #97
+================================================================================
+URL     : https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/4iib5/0x4AAAAAACfm1moyUx8hKbCa/light/fbE/new/normal?lang=en
+Status  : 200 
+MIME    : text/html
+IP      : 104.18.95.41
+Cache   : False
+Size    : 0 bytes
+SHA-256 : 
+Time    : 2026-03-13T13:10:03.553068
+
+HEADERS:
+  accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+  alt-svc: h3=":443"; ma=86400
+  cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+  cf-ray: 9dbb46cfd96aacc5-EWR
+  content-encoding: br
+  content-security-policy: default-src 'none'; script-src 'nonce-JaqzPFdrSMfZoD4i' 'unsafe-eval'; script-src-attr 'none'; worker-src blob:; style-src 'unsafe-inline'; img-src 'self'; connect-src 'self'; frame-src 'self' blob:; child-src 'self' blob:; form-action 'none'; base-uri 'self'; sandbox allow-same-origin allow-scripts allow-popups allow-forms
+  content-type: text/html; charset=UTF-8
+  critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+  cross-origin-embedder-policy: require-corp
+  cross-origin-opener-policy: same-origin
+  cross-origin-resource-policy: cross-origin
+  date: Fri, 13 Mar 2026 13:10:03 GMT
+  document-policy: js-profiling
+  origin-agent-cluster: ?1
+  permissions-policy: accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+  referrer-policy: same-origin
+  server: cloudflare
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 

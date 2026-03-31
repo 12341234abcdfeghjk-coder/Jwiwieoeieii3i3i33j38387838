@@ -1,0 +1,37 @@
+================================================================================
+RESPONSE #10
+================================================================================
+URL     : https://app.neilpatel.com/api/get_token
+Status  : 200 
+MIME    : application/json
+IP      : 18.239.183.50
+Cache   : False
+Size    : 126 bytes
+SHA-256 : 2317962e36e647422f7b06eebfeef5b7db992a5565f60e3c9a4557394c1ac7a9
+Time    : 2026-03-13T13:10:01.645027
+
+HEADERS:
+  access-control-expose-headers: X-RateLimit-Reset,X-RateLimit-Remaining
+  x-amz-apigw-id: aKbqfFK-IAMEOcg=
+  x-amzn-trace-id: Root=1-69b40ca9-13bf85f12796eae72d944e93;Parent=46c131571a0e689f;Sampled=0;Lineage=1:f1071c37:0
+  access-control-allow-credentials: true
+  x-ratelimit-reset: 1773447664
+  x-amzn-requestid: df5d8835-4e2f-4d4b-94e0-51d55c6a3ce4
+  x-ratelimit-remaining: 68
+  via: 1.1 04d8137eba39d404a430316a46dde298.cloudfront.net (CloudFront), 1.1 9773a5091daf4b94a65f88adf32fd1fc.cloudfront.net (CloudFront)
+  access-control-allow-origin: https://app.neilpatel.com
+  x-cache: Miss from cloudfront
+  content-length: 126
+  x-amz-cf-id: ZuSF4SdkEkIL97i-UlobonFlvouQ9J-gQIxZfE56qf27iv83G_uHIQ==
+  date: Fri, 13 Mar 2026 13:10:01 GMT
+  content-type: application/json
+  x-amz-cf-pop: IAD61-P13, BOS50-P4
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+
+BODY (126 bytes):
+{"token": "app#unlogged__600bc1e73c24c6cb166d22f88a7b2cc7e38eef71", "reports_limits": 3, "reports_used": 0, "ttl": 1773447664}

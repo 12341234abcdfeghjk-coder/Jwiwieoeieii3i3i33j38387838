@@ -1,0 +1,32 @@
+================================================================================
+RESPONSE #125
+================================================================================
+URL     : https://app.neilpatel.com/en/register/?mpsource=signup_popup
+Status  : 200 
+MIME    : text/html
+IP      : 18.239.183.50
+Cache   : True
+Size    : 0 bytes
+SHA-256 : 
+Time    : 2026-03-13T13:10:19.929644
+
+HEADERS:
+  vary: Accept-Encoding
+  content-security-policy: frame-ancestors 'self';
+  content-encoding: gzip
+  etag: "e54625b9effd8578b5c048aa631111e7"
+  age: 82280
+  via: 1.1 Caddy, 1.1 9773a5091daf4b94a65f88adf32fd1fc.cloudfront.net (CloudFront)
+  x-cache: Hit from cloudfront
+  x-amz-cf-id: r8HeSqeBvSDG7hncOJZSeGqN4FE6RPUmPX-Xq3p9nk1y_v7U908-Zw==
+  date: Thu, 12 Mar 2026 14:18:39 GMT
+  content-type: text/html
+  last-modified: Wed, 11 Mar 2026 14:01:33 GMT
+  server: AmazonS3
+  x-amz-cf-pop: BOS50-P4
+  x-frame-options: SAMEORIGIN
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 

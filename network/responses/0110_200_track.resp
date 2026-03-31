@@ -1,0 +1,37 @@
+================================================================================
+RESPONSE #110
+================================================================================
+URL     : https://fink.neilpatelapi.com/track/?verbose=1&ip=1&_=1773407406106
+Status  : 200 
+MIME    : application/json
+IP      : 34.201.89.8
+Cache   : False
+Size    : 25 bytes
+SHA-256 : e39a8118ec6cdf6ac33e6961518e9fe6ba3f6caf099aeeaec1389c2108ba90ba
+Time    : 2026-03-13T13:10:06.569124
+
+HEADERS:
+  strict-transport-security: max-age=604800; includeSubDomains
+  access-control-max-age: 1728000
+  access-control-expose-headers: X-MP-CE-Backoff
+  cache-control: no-cache, no-store
+  x-envoy-upstream-service-time: 25
+  access-control-allow-credentials: true
+  access-control-allow-methods: GET, POST, OPTIONS
+  via: 1.1 google
+  access-control-allow-origin: https://app.neilpatel.com
+  alt-svc: clear
+  content-length: 25
+  date: Fri, 13 Mar 2026 13:10:06 GMT
+  content-type: application/json
+  server: nginx/1.29.4
+  access-control-allow-headers: X-Requested-With, Content-Type, X-Amzn-Trace-Id
+
+SECURITY ISSUES:
+  [HIGH] MISSING: content-security-policy — CSP مفقود
+  [MEDIUM] MISSING: x-frame-options — Clickjacking ممكن
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 
+
+BODY (25 bytes):
+{"error":null,"status":1}

@@ -1,0 +1,32 @@
+================================================================================
+RESPONSE #124
+================================================================================
+URL     : https://app.neilpatel.com/assets/index-C2jqyrqU.css
+Status  : 200 
+MIME    : text/css
+IP      : 18.239.183.50
+Cache   : False
+Size    : 0 bytes
+SHA-256 : 
+Time    : 2026-03-13T13:10:19.882649
+
+HEADERS:
+  last-modified: Wed, 11 Mar 2026 14:01:32 GMT
+  content-security-policy: frame-ancestors 'self';
+  content-encoding: gzip
+  etag: "200606b1af76c9537cf6e40b78ae6ffe"
+  age: 82533
+  via: 1.1 Caddy, 1.1 9773a5091daf4b94a65f88adf32fd1fc.cloudfront.net (CloudFront)
+  x-cache: Hit from cloudfront
+  x-amz-cf-id: 2gx9ab4ABUooXTZOuWdQncMedwhz7rBrjIMdEPAmPj4coTd1XiyO-g==
+  date: Fri, 13 Mar 2026 13:10:19 GMT
+  x-amz-cf-pop: BOS50-P4
+  vary: Accept-Encoding
+  server: AmazonS3
+  content-type: text/css
+  x-frame-options: SAMEORIGIN
+
+SECURITY ISSUES:
+  [HIGH] MISSING: strict-transport-security — HSTS مفقود
+  [MEDIUM] MISSING: x-content-type-options — MIME sniffing ممكن
+  [LOW] INFO_LEAK: server — 
